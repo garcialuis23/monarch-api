@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2025 Luis García Díaz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Nota Académica
+
+Este proyecto ha sido desarrollado como parte de un trabajo académico por Luis García Díaz.
+El proyecto "Monarch API - Age of STEMpires" es una demostración de conocimientos en:
+
+- Desarrollo de APIs REST con Spring Boot
+- Diseño de bases de datos relacionales
+- Implementación de lógica de negocio compleja
+- Validaciones y manejo de errores
+- Documentación técnica y diagramas UML
+
+### Propósito Educativo
+
+Este software se proporciona con fines educativos y de demostración de habilidades
+técnicas. Puede ser utilizado como referencia para otros estudiantes y desarrolladores
+que estén aprendiendo Spring Boot, MySQL, y desarrollo de APIs REST.
+
+### Contacto Académico
+
+Para consultas académicas relacionadas con este proyecto, metodología de desarrollo,
+o aspectos técnicos específicos, contacta al autor a través de los canales oficiales
+de la institución educativa correspondiente.
