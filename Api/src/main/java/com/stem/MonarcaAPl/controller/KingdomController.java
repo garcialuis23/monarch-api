@@ -29,7 +29,7 @@ public class KingdomController {
     // ---------------------------- UPDATE KINGDOM
     // ---------------------------------------
     @PutMapping
-    @CrossOrigin
+    @CrossOrigin(origins = "*")    @CrossOrigin
     public boolean updateKingdom(@RequestBody Kingdom updatedKingdom) throws SQLException {
         boolean result = false;
         Kingdom trueKingdom = getKingdomById(updatedKingdom.getId());
@@ -67,9 +67,7 @@ public class KingdomController {
     // -------------------------------------
     @PostMapping
     @CrossOrigin
-    public int insertKingdom(@RequestBody Kingdom newKingdom) throws SQLException {
-
-        int kingdomInserted = 0;
+kingdomInserted = 0;
 
         Monarch searchedMonarch = MyMonarchController.getMonarchById(newKingdom.getMonarchKingdom().getId());
         boolean nameOK = newKingdom.validateKingdomName();
